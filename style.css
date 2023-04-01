@@ -481,3 +481,13 @@ input[type="file"] {
 .upload-point {
     margin: 0px 0px 10px 0px;
 }
+
+.not-found{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.not-found h1{
+    color: var(--text-colour);
+}
